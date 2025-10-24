@@ -1,0 +1,13 @@
+site_name: Document Template
+theme:
+  name: material
+nav:
+  - Introduction: index.md
+  - Tutorials:
+    - Get Started: tutorial/get-started.md
+  - How-to:
+    - Documentation: how-to/how-to-do.md
+plugins:
+  search:
+repo_name: quick-sort/docs-template
+repo_url: https://github.com/quick-sort/docs-template
